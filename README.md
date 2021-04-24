@@ -3,10 +3,10 @@ Projet de création d'un petit jeu vidéo (programmation en Python) réalisé lo
 
 Equipe de développement : 
 - DUPUY Rémy 
-- Quentin Chlebowski (correspondant au Canada) 
-- Jérôme Gambiez
-- Romain Pommatau
-- Loris Martinez
+- CHLEBOWSKI Quentin (correspondant au Canada) 
+- GAMBIEZ Jérôme 
+- POMMATAU Romain 
+- MARTINEZ Loris
 ---
 
 Description :
